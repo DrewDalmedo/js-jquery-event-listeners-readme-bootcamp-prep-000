@@ -13,8 +13,8 @@ function frameIt() {
 }
 
 function pressIt() {
-  $('#typing').on('keydown', () => {
-    if() {
+  $('#typing').on('keydown', (key) => {
+    if(key.which == 71) {
       alert("secret letter g has been pressed, commence nuclear meltdown");
     }
   });
