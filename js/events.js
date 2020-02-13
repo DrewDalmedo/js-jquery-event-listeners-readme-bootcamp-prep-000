@@ -21,7 +21,7 @@ function pressIt() {
 }
 
 function submitIt() {
-  $().on('submit', () => {
+  $('form').on('submit', () => {
     
   });
 }
