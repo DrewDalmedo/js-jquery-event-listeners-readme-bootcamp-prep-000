@@ -14,7 +14,9 @@ function frameIt() {
 
 function pressIt() {
   $('#typing').on('keydown', () => {
-    
+    if() {
+      alert("secret letter g has been pressed, commence nuclear meltdown");
+    }
   });
 }
 
