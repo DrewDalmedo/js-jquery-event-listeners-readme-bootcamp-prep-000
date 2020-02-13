@@ -7,11 +7,11 @@ function getIt() {
 }
 
 function frameIt() {
-  /*
-  $().on( , () => {
+  
+  $('img').on('load', () => {
     
   });
-  */
+  
 }
 
 function pressIt() {
