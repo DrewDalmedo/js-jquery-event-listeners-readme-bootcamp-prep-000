@@ -15,7 +15,7 @@ function frameIt() {
 function pressIt() {
   $('#typing').on('keydown', (key) => {
     if(key.which == 71) {
-      alert("secret letter g has been pressed, commence nuclear meltdown");
+      alert("the letter g has been pressed, commence nuclear meltdown");
     }
   });
 }
