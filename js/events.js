@@ -13,11 +13,9 @@ function frameIt() {
 }
 
 function pressIt() {
-  /*
   $().on( , () => {
     
   });
-  */
 }
 
 function submitIt() {
