@@ -21,11 +21,9 @@ function pressIt() {
 }
 
 function submitIt() {
-  /*
   $().on( , () => {
     
   });
-  */
 }
 
 $(document).ready(function(){
